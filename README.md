@@ -54,7 +54,7 @@ https://xstack.ir
 
 ## Features
 
-* 📱 Mobile Apps ( Develop your app for : Andriod , IOS )
+* 🎑 Apps ( Develop your app for : Andriod , IOS )
 * 🖥️ Desktop Apps ( Develop your app for : Windows , Linux , MacOSX )
 * 🌐 Web applications ( Develop your web app )
 * 👉 GUI ( GUI drag and drop component )
